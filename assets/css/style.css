@@ -27,6 +27,11 @@ h2 {
   font-size: 1.4rem;
 }
 
+h3 {
+  margin-top: 1.8rem;
+  font-size: 1.2rem;
+}
+
 main {
   max-width: 900px;
   margin: 0 auto;
