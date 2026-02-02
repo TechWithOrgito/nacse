@@ -5,7 +5,7 @@
 NACSE is a monthly publication focused on applied cybersecurity and systems engineering.
 It explores real systems, engineering decisions, and practical security insights.
 
-🌐 https://nacse.github.io
+🌐 https://techwithorgito.github.io/nacse
 
 ## Structure
 - index.html — Landing page
